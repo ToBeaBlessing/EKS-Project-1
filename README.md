@@ -312,8 +312,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Author**: Blessing   
-**GitHub**: [@yourusername](https://github.com/To_BeaBlessing)  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/to-beablessing)
+**Author**: Blessing Omomola  
+**GitHub**: [@To_BeaBlessing](https://github.com/ToBeaBlessing)  
+**LinkedIn**: [Blessing Omomola](https://linkedin.com/in/to-beablessing)
 
 ⭐ If you found this project helpful, please consider giving it a star!
