@@ -5,6 +5,7 @@
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 
 A production-ready demonstration of deploying a containerized application on Amazon EKS using Fargate compute and AWS Application Load Balancer Controller for intelligent traffic routing.
+<img width="725" height="862" alt="image" src="https://github.com/user-attachments/assets/d6166236-eaa1-43e0-a44e-5964fe1f1251" />
 
 ## 📋 Table of Contents
 
