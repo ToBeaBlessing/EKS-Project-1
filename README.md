@@ -312,9 +312,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Author**: Blessing  
-**Institution**: Morgan State University - Industrial Engineering (MS)  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Author**: Blessing   
+**GitHub**: [@yourusername](https://github.com/To_BeaBlessing)  
+**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/to-beablessing)
 
 ⭐ If you found this project helpful, please consider giving it a star!
